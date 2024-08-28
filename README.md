@@ -6,7 +6,7 @@ Basic ⚛️React and Node.js application designed to retrieve real-time stock p
 
 
 ## Getting Started 🌐
-- Clone the Repository
+- Clone the Repository `git clone https://github.com/THBS-Training/MERN-StockPrice-App.git`
 - Navigate to Frontend repo
   `cd Frontend`
 - Install Frontend dependencies
